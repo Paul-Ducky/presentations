@@ -33,7 +33,7 @@ Important to note is that you are not required to use a powerpoint, you can be c
 - [ ] Elia
 - [ ] Viktor
 - [ ] Nattaya
-- [ ] Alexandra
+- [ ] Alexandra : Watch topic : mjml
 - [ ] Marcel
 - [ ] Kai
 - [ ] Anton
