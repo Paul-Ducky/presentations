@@ -22,7 +22,7 @@ Important to note is that you are not required to use a powerpoint, you can be c
 - [x] Laila : Watch topic : 
 - [x] Oscar : Watch topic : 
 - [x] Paul : Watch topic : `RegEx`
-- [x] Jens : Watch topic : 
+- [x] Jens : Watch topic : `Basics of hosting and webservers`
 - [x] Peter : Watch topic : `Bootstrap`
 - [x] Thomas : Watch topic : 
 - [x] Pradeep : Watch topic : `logic building`
