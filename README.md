@@ -34,7 +34,7 @@ Important to note is that you are not required to use a powerpoint, you can be c
 - [ ] Viktor
 - [ ] Nattaya
 - [ ] Alexandra
-- [ ] Marcel
+- [ ] Mark - CSS FLEXBOX
 - [ ] Kai
 - [ ] Anton
 - [ ] Jenifer
