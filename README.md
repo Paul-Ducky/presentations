@@ -16,37 +16,39 @@ Important to note is that you are not required to use a powerpoint, you can be c
 ### This means that if you have a watch on Wednesday, you should be able to give your talk on Monday.
 **If you are in class but are not prepared, you will have to give an extra watch!**
 
-### the arrow `-->` means that person is the next one to present! A checked box means you can relax for a little bit :D
+### the arrow `-->` means that person is the next one to present! A checked box means you can relax for a short while :D
 
-- [x] Marte 
-- [x] Laila
-- [x] Oscar
-- [x] Paul
-- [x] Jens
-- [x] Peter
-- [x] Thomas
-- [x] Pradeep
-- [x] Isaac
-- [x] Michaela
-- [x] Amina
-- [ ] --> Julio
-- [ ] Elia
-- [ ] Viktor
-- [ ] Nattaya
-- [ ] Alexandra
-- [ ] Mark - CSS FLEXBOX
-- [ ] Kai
-- [ ] Anton
-- [ ] Jenifer
-- [ ] Younes
-- [ ] Mel
-- [ ] Sanne
-- [ ] Serkan
+- [x] Marte  : Watch topic : `Zsh`
+- [x] Laila : Watch topic : 
+- [x] Oscar : Watch topic : 
+- [x] Paul : Watch topic : `RegEx`
+- [x] Jens : Watch topic : 
+- [x] Peter : Watch topic : `Bootstrap`
+- [x] Thomas : Watch topic : 
+- [x] Pradeep : Watch topic : `logic building`
+- [x] Isaac : Watch topic : `VPN`
+- [x] Michaela : Watch topic : `Fold@home`
+- [x] Amina : Watch topic : `The right to be forgotten`
+- [ ] --> Julio : Watch topic : 
+- [ ] Elia : Watch topic : 
+- [ ] Viktor : Watch topic : 
+- [ ] Nattaya : Watch topic : 
+- [ ] Alexandra : Watch topic : `mjml`
+- [ ] Mark : Watch topic : `CSS FLEXBOX`
+- [ ] Kai : Watch topic : 
+- [ ] Anton : Watch topic : 
+- [ ] Jenifer : Watch topic : 
+- [ ] Younes : Watch topic : 
+- [ ] Mel : Watch topic : 
+- [ ] Sanne : Watch topic : 
+- [ ] Serkan : Watch topic : 
+ ---
 
-- [ ] Isaac (extra)
-- [ ] Paul (extra)
-- [ ] Thomas (extra)
-- [ ] Pradeep (extra)
-- [ ] Isaac (extra)
+###
+- [ ] Isaac (extra) : Watch topic :
+- [ ] Paul (extra) : Watch topic :
+- [ ] Thomas (extra) : Watch topic :
+- [ ] Pradeep (extra) : Watch topic :
+- [ ] Isaac (extra) : Watch topic : 
 
 
