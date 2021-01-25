@@ -41,7 +41,7 @@ Important to note is that you are not required to use a powerpoint, you can be c
 - [ ] Younes : Watch topic : 
 - [ ] Mel : Watch topic : 
 - [ ] Sanne : Watch topic : 
-- [ ] Serkan : Watch topic : 
+- [ ] Serkan : Watch topic : `Flutter/dart`
  ---
 
 ###
