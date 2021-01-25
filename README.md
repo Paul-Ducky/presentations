@@ -24,7 +24,7 @@ Important to note is that you are not required to use a powerpoint, you can be c
 - [x] Paul : Watch topic : `RegEx`
 - [x] Jens : Watch topic : `Basics of hosting and webservers`
 - [x] Peter : Watch topic : `Bootstrap`
-- [x] Thomas : Watch topic : 
+- [x] Thomas : Watch topic : `Cookies` 
 - [x] Pradeep : Watch topic : `logic building`
 - [x] Isaac : Watch topic : `VPN`
 - [x] Michaela : Watch topic : `Fold@home`
