@@ -19,7 +19,7 @@ Important to note is that you are not required to use a powerpoint, you can be c
 ### the arrow `-->` means that person is the next one to present! A checked box means you can relax for a short while :D
 
 - [x] Marte  : Watch topic : `Zsh`
-- [x] Laila : Watch topic : 
+- [x] Laila : Watch topic : `Agile`
 - [x] Oscar : Watch topic : 
 - [x] Paul : Watch topic : `RegEx`
 - [x] Jens : Watch topic : `Basics of hosting and webservers`
