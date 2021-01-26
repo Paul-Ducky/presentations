@@ -29,9 +29,9 @@ Important to note is that you are not required to use a powerpoint, you can be c
 - [x] Isaac : Watch topic : `VPN`
 - [x] Michaela : Watch topic : `Fold@home`
 - [x] Amina : Watch topic : `The right to be forgotten`
-- [x] Julio : Watch topic : 'APIs'
-- [ ] --> Elia : Watch topic : 
-- [ ] Viktor : Watch topic : 
+- [x] Julio : Watch topic : `APIs`
+- [ ] Elia : Watch topic : `JavaScript Engines`
+- [ ] --> Viktor : Watch topic : 
 - [ ] Nattaya : Watch topic : 
 - [ ] Alexandra : Watch topic : `mjml`
 - [ ] Mark : Watch topic : `CSS FLEXBOX`
