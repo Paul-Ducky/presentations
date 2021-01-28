@@ -20,7 +20,7 @@ Important to note is that you are not required to use a powerpoint, you can be c
 
 - [x] Marte  : Watch topic : `Zsh`
 - [x] Laila : Watch topic : `Agile`
-- [x] Oscar : Watch topic : 
+- [x] Oscar : Watch topic : `Puppeteer`
 - [x] Paul : Watch topic : `RegEx`
 - [x] Jens : Watch topic : `Basics of hosting and webservers`
 - [x] Peter : Watch topic : `Bootstrap`
