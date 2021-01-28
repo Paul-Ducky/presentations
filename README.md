@@ -32,10 +32,10 @@ Important to note is that you are not required to use a powerpoint, you can be c
 - [x] Julio : Watch topic : `APIs`
 - [x] Elia : Watch topic : `JavaScript Engines`
 - [x] Viktor : Watch topic : `live coding a piano`
-- [ ] --> Nattaya : Watch topic : `soft skills`
-- [ ] Alexandra : Watch topic : `mjml`
+- [x] Nattaya : Watch topic : `soft skills`
+- [ ] --> Alexandra : Watch topic : `mjml`
 - [ ] Mark : Watch topic : `CSS FLEXBOX`
-- [ ] Kai : Watch topic : 
+- [ ] Kai : Watch topic : `Unity`
 - [ ] Anton : Watch topic : 
 - [ ] Jenifer : Watch topic : 
 - [ ] Younes : Watch topic : 
