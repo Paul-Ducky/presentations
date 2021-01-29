@@ -33,8 +33,8 @@ Important to note is that you are not required to use a powerpoint, you can be c
 - [x] Elia : Watch topic : `JavaScript Engines`
 - [x] Viktor : Watch topic : `live coding a piano`
 - [x] Nattaya : Watch topic : `soft skills`
-- [ ] --> Alexandra : Watch topic : `mjml`
-- [ ] Mark : Watch topic : `CSS FLEXBOX`
+- [x] Alexandra : Watch topic : `mjml`
+- [ ] --> Mark : Watch topic : `CSS FLEXBOX`
 - [ ] Kai : Watch topic : `Unity`
 - [ ] Anton : Watch topic : 
 - [ ] Jenifer : Watch topic : 
