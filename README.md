@@ -34,8 +34,8 @@ Important to note is that you are not required to use a powerpoint, you can be c
 - [x] Viktor : Watch topic : `live coding a piano`
 - [x] Nattaya : Watch topic : `soft skills`
 - [x] Alexandra : Watch topic : `mjml`
-- [ ] --> Mark : Watch topic : `CSS FLEXBOX`
-- [ ] Kai : Watch topic : `Unity`
+- [x] Mark : Watch topic : `CSS FLEXBOX`
+- [ ] --> Kai : Watch topic : `Unity`
 - [ ] Anton : Watch topic : 
 - [ ] Jenifer : Watch topic : `Intro to DS & Algorithms`
 - [ ] Younes : Watch topic : 
