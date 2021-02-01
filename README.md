@@ -37,10 +37,10 @@ Important to note is that you are not required to use a powerpoint, you can be c
 - [ ] --> Mark : Watch topic : `CSS FLEXBOX`
 - [ ] Kai : Watch topic : `Unity`
 - [ ] Anton : Watch topic : 
-- [ ] Jenifer : Watch topic : 
+- [ ] Jenifer : Watch topic : `Intro to DS & Algorithms`
 - [ ] Younes : Watch topic : 
 - [ ] Mel : Watch topic : 
-- [ ] Sanne : Watch topic : 
+- [ ] Sanne : Watch topic : `Google`
 - [ ] Serkan : Watch topic : `Flutter/dart`
  ---
 
