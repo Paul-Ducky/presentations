@@ -35,8 +35,8 @@ Important to note is that you are not required to use a powerpoint, you can be c
 - [x] Nattaya : Watch topic : `soft skills`
 - [x] Alexandra : Watch topic : `mjml`
 - [x] Mark : Watch topic : `CSS FLEXBOX`
-- [ ] --> Kai : Watch topic : `Colour & colourblind accessibility`
-- [ ] Anton : Watch topic : 
+- [x] Kai : Watch topic : `Colour & colourblind accessibility`
+- [ ] --> Anton : Watch topic : 
 - [ ] Jenifer : Watch topic : `Intro to DS & Algorithms`
 - [ ] Younes : Watch topic : 
 - [ ] Mel : Watch topic : 
