@@ -39,7 +39,7 @@ Important to note is that you are not required to use a powerpoint, you can be c
 - [ ] --> Anton : Watch topic : 
 - [ ] Jenifer : Watch topic : `Intro to DS & Algorithms`
 - [ ] Younes : Watch topic : 
-- [ ] Mel : Watch topic : 
+- [ ] Mel : Watch topic : `React`
 - [ ] Sanne : Watch topic : `Google`
 - [ ] Serkan : Watch topic : `Flutter/dart`
  ---
