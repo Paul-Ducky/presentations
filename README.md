@@ -37,8 +37,8 @@ Important to note is that you are not required to use a powerpoint, you can be c
 - [x] Mark : Watch topic : `CSS FLEXBOX`
 - [x] Kai : Watch topic : `Colour & colourblind accessibility`
 - [x] Anton : Watch topic : `OSINT`
-- [ ] --> Jenifer : Watch topic : `Intro to DS & Algorithms`
-- [ ] Younes : Watch topic : 
+- [x] Jenifer : Watch topic : `Intro to DS & Algorithms`
+- [ ] --> Younes : Watch topic : 
 - [ ] Mel : Watch topic : `React`
 - [ ] Sanne : Watch topic : `Google`
 - [ ] Serkan : Watch topic : `Flutter/dart`
