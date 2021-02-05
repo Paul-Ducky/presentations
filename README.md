@@ -18,30 +18,30 @@ Important to note is that you are not required to use a powerpoint, you can be c
 
 ### the arrow `-->` means that person is the next one to present! A checked box means you can relax for a short while :D
 
-- [x] Marte  : Watch topic : `Zsh`
-- [x] Laila : Watch topic : `Agile`
-- [x] Oscar : Watch topic : `Puppeteer`
-- [x] Paul : Watch topic : `RegEx`
-- [x] Jens : Watch topic : `Basics of hosting and webservers`
-- [x] Peter : Watch topic : `Bootstrap`
-- [x] Thomas : Watch topic : `Cookies` 
-- [x] Pradeep : Watch topic : `logic building`
-- [x] Isaac : Watch topic : `VPN`
-- [x] Michaela : Watch topic : `Fold@home`
-- [x] Amina : Watch topic : `The right to be forgotten`
-- [x] Julio : Watch topic : `APIs`
-- [x] Elia : Watch topic : `JavaScript Engines`
-- [x] Viktor : Watch topic : `live coding a piano`
-- [x] Nattaya : Watch topic : `soft skills`
-- [x] Alexandra : Watch topic : `mjml`
-- [x] Mark : Watch topic : `CSS FLEXBOX`
-- [x] Kai : Watch topic : `Colour & colourblind accessibility`
-- [x] Anton : Watch topic : `OSINT`
-- [x] Jenifer : Watch topic : `Intro to DS & Algorithms`
-- [ ] --> Younes : Watch topic : 
-- [ ] Mel : Watch topic : `React`
-- [ ] Sanne : Watch topic : `Google`
-- [ ] Serkan : Watch topic : `Flutter/dart`
+- [x] Marte  : Watch topics : `Zsh` `` ``
+- [x] Laila : Watch topics : `Agile` `` ``
+- [x] Oscar : Watch topics : `Puppeteer` `` ``
+- [x] Paul : Watch topics : `RegEx` `` ``
+- [x] Jens : Watch topics : `Basics of hosting and webservers` `` ``
+- [x] Peter : Watch topics : `Bootstrap` `` ``
+- [x] Thomas : Watch topics : `Cookies` `` ``
+- [x] Pradeep : Watch topics : `logic building` `` ``
+- [x] Isaac : Watch topics : `VPN` `` ``
+- [x] Michaela : Watch topics : `Fold@home` `` ``
+- [x] Amina : Watch topics : `The right to be forgotten` `` ``
+- [x] Julio : Watch topics : `APIs` `` ``
+- [x] Elia : Watch topics : `JavaScript Engines` `` ``
+- [x] Viktor : Watch topics : `live coding a piano` `` ``
+- [x] Nattaya : Watch topics : `soft skills` `` ``
+- [x] Alexandra : Watch topics : `mjml` `` ``
+- [x] Mark : Watch topics : `CSS FLEXBOX` `` ``
+- [x] Kai : Watch topics : `Colour & colourblind accessibility` `` ``
+- [x] Anton : Watch topics : `OSINT` `` ``
+- [x] Jenifer : Watch topics : `Intro to DS & Algorithms` `` ``
+- [x] Younes : Watch topics : `Grepper` `` ``
+- [ ] --> Mel : Watch topics : `React` `` ``
+- [ ] Sanne : Watch topics : `Google` `` ``
+- [ ] Serkan : Watch topics : `Flutter/dart` `` ``
  ---
 
 ###
@@ -50,5 +50,6 @@ Important to note is that you are not required to use a powerpoint, you can be c
 - [ ] Thomas (extra) : Watch topic :
 - [ ] Pradeep (extra) : Watch topic :
 - [ ] Isaac (extra) : Watch topic : 
+- [ ] Younes (ectra) : Watch topic :
 
 
