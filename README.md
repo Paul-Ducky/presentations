@@ -39,13 +39,13 @@ Important to note is that you are not required to use a powerpoint, you can be c
 - [x] Anton : Watch topics : `OSINT` `` ``
 - [x] Jenifer : Watch topics : `Intro to DS & Algorithms` `` ``
 - [x] Younes : Watch topics : `Grepper` `` ``
-- [ ] --> Mel : Watch topics : `React` `` ``
-- [ ] Sanne : Watch topics : `Google` `` ``
-- [ ] Serkan : Watch topics : `Flutter/dart` `` ``
+- [x] Mel : Watch topics : `React` `` ``
+- [x] Sanne : Watch topics : `Google` `` ``
+- [x] Serkan : Watch topics : `Flutter/dart` `` ``
  ---
 
 ###
-- [ ] Isaac (extra) : Watch topic :
+- [ ] --> Isaac (extra) : Watch topic :
 - [ ] Paul (extra) : Watch topic :
 - [ ] Thomas (extra) : Watch topic :
 - [ ] Pradeep (extra) : Watch topic :
