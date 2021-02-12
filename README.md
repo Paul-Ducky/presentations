@@ -18,35 +18,35 @@ Important to note is that you are not required to use a powerpoint, you can be c
 
 ### the arrow `-->` means that person is the next one to present! A checked box means you can relax for a short while :D
 
-- [x] [ ] Marte  : Watch topics : `Zsh` `` ``
-- [x] [ ] Laila : Watch topics : `Agile` `` ``
-- [x] [ ] Oscar : Watch topics : `Puppeteer` `` ``
-- [x] [ ] Paul : Watch topics : `RegEx` `` ``
-- [x] [ ] Jens : Watch topics : `Basics of hosting and webservers` `` ``
-- [x] [ ] Peter : Watch topics : `Bootstrap` `` ``
-- [x] [ ] Thomas : Watch topics : `Cookies` `` ``
-- [x] [ ] Isaac : Watch topics : `VPN` `` ``
-- [x] [ ] Michaela : Watch topics : `Fold@home` `` ``
-- [x] [ ] Amina : Watch topics : `The right to be forgotten` `` ``
-- [x] [ ] Julio : Watch topics : `APIs` `` ``
-- [x] [ ] Elia : Watch topics : `JavaScript Engines` `` ``
-- [x] [ ] Viktor : Watch topics : `live coding a piano` `` ``
-- [x] [ ] Nattaya : Watch topics : `soft skills` `` ``
-- [x] [ ] Alexandra : Watch topics : `mjml` `` ``
-- [x] [ ] Mark : Watch topics : `CSS FLEXBOX` `` ``
-- [x] [ ] Kai : Watch topics : `Colour & colourblind accessibility` `` ``
-- [x] [ ] Anton : Watch topics : `OSINT` `` ``
-- [x] [ ] Jenifer : Watch topics : `Intro to DS & Algorithms` `` ``
-- [x] [ ] Mel : Watch topics : `React` `` ``
-- [x] [ ] Sanne : Watch topics : `Google` `` ``
-- [x] [ ] Serkan : Watch topics : `Flutter/dart` `` ``
+- :ballot_box_with_check: :black_square_button: `17/2` Marte  : Watch topics : `Zsh` `` `` 
+- :ballot_box_with_check: :black_square_button: `18/2` Laila : Watch topics : `Agile` `` ``
+- :ballot_box_with_check: :black_square_button: `19/2` Oscar : Watch topics : `Puppeteer` `` ``
+- :ballot_box_with_check: :black_square_button: `22/2` Paul : Watch topics : `RegEx` `` ``
+- :ballot_box_with_check: :black_square_button: `23/2` Jens : Watch topics : `Basics of hosting and webservers` `` ``
+- :ballot_box_with_check: :black_square_button: `24/2` Peter : Watch topics : `Bootstrap` `` ``
+- :ballot_box_with_check: :black_square_button: `25/2` Thomas : Watch topics : `Cookies` `` ``
+- :ballot_box_with_check: :black_square_button: `26/2` Isaac : Watch topics : `VPN` `` ``
+- :ballot_box_with_check: :black_square_button: `8/3` Michaela : Watch topics : `Fold@home` `` ``
+- :ballot_box_with_check: :black_square_button: `9/3` Amina : Watch topics : `The right to be forgotten` `` ``
+- :ballot_box_with_check: :black_square_button: `10/3` Julio : Watch topics : `APIs` `` ``
+- :ballot_box_with_check: :black_square_button: `11/3` Elia : Watch topics : `JavaScript Engines` `` ``
+- :ballot_box_with_check: :black_square_button: `12/3` Viktor : Watch topics : `live coding a piano` `` ``
+- :ballot_box_with_check: :black_square_button: `15/3` Nattaya : Watch topics : `soft skills` `` ``
+- :ballot_box_with_check: :black_square_button: `16/3` Alexandra : Watch topics : `mjml` `` ``
+- :ballot_box_with_check: :black_square_button: `17/3` Mark : Watch topics : `CSS FLEXBOX` `` ``
+- :ballot_box_with_check: :black_square_button: `18/3` Kai : Watch topics : `Colour & colourblind accessibility` `` ``
+- :ballot_box_with_check: :black_square_button: `19/3` Anton : Watch topics : `OSINT` `` ``
+- :ballot_box_with_check: :black_square_button: `22/3` Jenifer : Watch topics : `Intro to DS & Algorithms` `` ``
+- :ballot_box_with_check: :black_square_button: `23/3` Mel : Watch topics : `React` `` ``
+- :ballot_box_with_check: :black_square_button: `24/3` Sanne : Watch topics : `Google` `` ``
+- :ballot_box_with_check: :black_square_button: `25/3` Serkan : Watch topics : `Flutter/dart` `` ``
  ---
 
 ###
-- [x] Isaac (extra) : Watch topic : `History of coding, Watch series part: 1` `` ``
-- [x] Paul (extra) : Watch topic : `Presentation Tools` `` ``
-- [ ] --> Thomas (extra) : Watch topic :
-- [ ] Isaac (extra) : Watch topic : 
+- :ballot_box_with_check: Isaac (extra) : Watch topic : `History of coding, Watch series part: 1` `` ``
+- :ballot_box_with_check: Paul (extra) : Watch topic : `Presentation Tools` `` ``
+- :black_square_button: --> Thomas (extra) : `15/2 ` Watch topic : ` `
+- :black_square_button: Isaac (extra) : `16/2 ` Watch topic : ` `
 
 
 
