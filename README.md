@@ -45,9 +45,9 @@ Important to note is that you are not required to use a powerpoint, you can be c
  ---
 
 ###
-- [ ] --> Isaac (extra) : Watch topic :
-- [ ] Paul (extra) : Watch topic :
-- [ ] Thomas (extra) : Watch topic :
+- [x] Isaac (extra) : Watch topic : `History of coding, Watch series part: 1```
+- [x] Paul (extra) : Watch topic : `Presentation Tools``` 
+- [ ] --> Thomas (extra) : Watch topic :
 - [ ] Pradeep (extra) : Watch topic :
 - [ ] Isaac (extra) : Watch topic : 
 - [ ] Younes (ectra) : Watch topic :
