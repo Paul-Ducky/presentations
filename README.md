@@ -36,10 +36,10 @@ Important to note is that you are not required to use a powerpoint, you can be c
 - :ballot_box_with_check: :black_square_button: `17/3` Mark : Watch topics : `CSS FLEXBOX` `` ``
 - :ballot_box_with_check: :black_square_button: `18/3` Kai : Watch topics : `Colour & colourblind accessibility` `` ``
 - :ballot_box_with_check: :black_square_button: `19/3` Anton : Watch topics : `OSINT` `` ``
-- :ballot_box_with_check: :black_square_button: `22/3` Jenifer : Watch topics : `Intro to DS & Algorithms` `` ``
-- :ballot_box_with_check: :black_square_button: `23/3` Mel : Watch topics : `React` `` ``
-- :ballot_box_with_check: :black_square_button: `24/3` Sanne : Watch topics : `Google` `` ``
-- :ballot_box_with_check: :black_square_button: `25/3` Serkan : Watch topics : `Flutter/dart` `` ``
+- :ballot_box_with_check: :black_square_button: `Golden ticket` Jenifer : Watch topics : `Intro to DS & Algorithms` `` ``
+- :ballot_box_with_check: :black_square_button: `22/3` Mel : Watch topics : `React` `` ``
+- :ballot_box_with_check: :black_square_button: `23/3` Sanne : Watch topics : `Google` `` ``
+- :ballot_box_with_check: :black_square_button: `24/3` Serkan : Watch topics : `Flutter/dart` `` ``
  ---
 
 ###
