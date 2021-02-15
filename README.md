@@ -20,7 +20,7 @@ Important to note is that you are not required to use a powerpoint, you can be c
 
 - :ballot_box_with_check: :black_square_button: `17/2` Marte  : Watch topics : `Zsh` `` `` 
 - :ballot_box_with_check: :black_square_button: `18/2` Laila : Watch topics : `Agile` `` ``
-- :ballot_box_with_check: :black_square_button: `19/2` Oscar : Watch topics : `Puppeteer` `` ``
+- :ballot_box_with_check: :black_square_button: `19/2` Oscar : Watch topics : `OBS on steroids! or how can your presentation reach high levels!` `` ``
 - :ballot_box_with_check: :black_square_button: `22/2` Paul : Watch topics : `RegEx` `` ``
 - :ballot_box_with_check: :black_square_button: `23/2` Jens : Watch topics : `Basics of hosting and webservers` `` ``
 - :ballot_box_with_check: :black_square_button: `24/2` Peter : Watch topics : `Bootstrap` `` ``
