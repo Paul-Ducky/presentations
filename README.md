@@ -18,8 +18,8 @@ Important to note is that you are not required to use a powerpoint, you can be c
 
 ### the arrow `-->` means that person is the next one to present! A checked box means you can relax for a short while :D
 
-- :ballot_box_with_check: :black_square_button: `17/2` Marte  : Watch topics : `Zsh` `` `` 
-- :ballot_box_with_check: :black_square_button: `18/2` Laila : Watch topics : `Agile` `` ``
+- :ballot_box_with_check: :ballot_box_with_check: `17/2` Marte  : Watch topics : `Zsh` `` `` 
+- :ballot_box_with_check: :black_square_button: --> `18/2` Laila : Watch topics : `Agile` `` ``
 - :ballot_box_with_check: :black_square_button: `19/2` Oscar : Watch topics : `OBS on steroids! or how can your presentation reach high levels!` `` ``
 - :ballot_box_with_check: :black_square_button: `22/2` Paul : Watch topics : `RegEx` `` ``
 - :ballot_box_with_check: :black_square_button: `23/2` Jens : Watch topics : `Basics of hosting and webservers` `` ``
@@ -43,10 +43,7 @@ Important to note is that you are not required to use a powerpoint, you can be c
  ---
 
 ###
-- :ballot_box_with_check: Isaac (extra) : Watch topic : `History of coding, Watch series part: 1` `` ``
-- :ballot_box_with_check: Paul (extra) : Watch topic : `Presentation Tools` `` ``
-- :black_square_button: --> Thomas (extra) : `15/2 ` Watch topic : ` `
-- :black_square_button: Isaac (extra) : `16/2 ` Watch topic : ` `
+
 
 
 
