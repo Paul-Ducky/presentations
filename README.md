@@ -18,32 +18,26 @@ Important to note is that you are not required to use a powerpoint, you can be c
 
 ### the arrow `-->` means that person is the next one to present! A checked box means you can relax for a short while :D
 
-- :ballot_box_with_check: :ballot_box_with_check: `17/2` Marte  : Watch topics : `Zsh` `` `` 
-- :ballot_box_with_check: :black_square_button: --> `18/2` Laila : Watch topics : `Agile` `` ``
-- :ballot_box_with_check: :black_square_button: `19/2` Oscar : Watch topics : `OBS on steroids! or how can your presentation reach high levels!` `` ``
-- :ballot_box_with_check: :black_square_button: `22/2` Paul : Watch topics : `RegEx` `` ``
+- :ballot_box_with_check: :ballot_box_with_check: `17/2` Marte  : Watch topics : `Zsh` `Injury free Februari` `` 
+- :ballot_box_with_check: :ballot_box_with_check: `18/2` Laila : Watch topics : `Agile` `Introduction to OOP` ``
+- :ballot_box_with_check: :ballot_box_with_check: `19/2` Oscar : Watch topics : `OBS on steroids! or how can your presentation reach high levels!` `` ``
+- :ballot_box_with_check: :black_square_button:--> `22/2` Paul : Watch topics : `RegEx` `??` ``
 - :ballot_box_with_check: :black_square_button: `23/2` Jens : Watch topics : `Basics of hosting and webservers` `` ``
 - :ballot_box_with_check: :black_square_button: `24/2` Peter : Watch topics : `Bootstrap` `` ``
 - :ballot_box_with_check: :black_square_button: `25/2` Thomas : Watch topics : `Cookies` `` ``
-- :ballot_box_with_check: :black_square_button: `26/2` Isaac : Watch topics : `VPN` `` ``
-- :ballot_box_with_check: :black_square_button: `8/3` Michaela : Watch topics : `Fold@home` `` ``
-- :ballot_box_with_check: :black_square_button: `9/3` Amina : Watch topics : `The right to be forgotten` `` ``
-- :ballot_box_with_check: :black_square_button: `10/3` Julio : Watch topics : `APIs` `` ``
-- :ballot_box_with_check: :black_square_button: `11/3` Elia : Watch topics : `JavaScript Engines` `` ``
-- :ballot_box_with_check: :black_square_button: `12/3` Viktor : Watch topics : `live coding a piano` `` ``
-- :ballot_box_with_check: :black_square_button: `15/3` Nattaya : Watch topics : `soft skills` `` ``
-- :ballot_box_with_check: :black_square_button: `16/3` Alexandra : Watch topics : `mjml` `` ``
-- :ballot_box_with_check: :black_square_button: `17/3` Mark : Watch topics : `CSS FLEXBOX` `` ``
-- :ballot_box_with_check: :black_square_button: `18/3` Kai : Watch topics : `Colour & colourblind accessibility` `` ``
-- :ballot_box_with_check: :black_square_button: `19/3` Anton : Watch topics : `OSINT` `` ``
+- :ballot_box_with_check: :black_square_button: `26/2` Michaela : Watch topics : `Fold@home` `` ``
+- :ballot_box_with_check: :black_square_button: `8/3` Julio : Watch topics : `APIs` `` ``
+- :ballot_box_with_check: :black_square_button: `9/3` Elia : Watch topics : `JavaScript Engines` `` ``
+- :ballot_box_with_check: :black_square_button: `10/3` Viktor : Watch topics : `live coding a piano` `` ``
+- :ballot_box_with_check: :black_square_button: `11/3` Nattaya : Watch topics : `soft skills` `` ``
+- :ballot_box_with_check: :black_square_button: `12/3` Alexandra : Watch topics : `mjml` `` ``
+- :ballot_box_with_check: :black_square_button: `15/3` Mark : Watch topics : `CSS FLEXBOX` `` ``
+- :ballot_box_with_check: :black_square_button: `16/3` Kai : Watch topics : `Colour & colourblind accessibility` `` ``
+- :ballot_box_with_check: :black_square_button: `17/3` Anton : Watch topics : `OSINT` `` ``
 - :ballot_box_with_check: :black_square_button: `Golden ticket` Jenifer : Watch topics : `Intro to DS & Algorithms` `` ``
-- :ballot_box_with_check: :black_square_button: `22/3` Mel : Watch topics : `React` `` ``
-- :ballot_box_with_check: :black_square_button: `23/3` Sanne : Watch topics : `Google` `` ``
-- :ballot_box_with_check: :black_square_button: `24/3` Serkan : Watch topics : `Flutter/dart` `` ``
+- :ballot_box_with_check: :black_square_button: `18/3` Serkan : Watch topics : `Flutter/dart` `` ``
  ---
-
 ###
 
-
-
+-- extra watches --
 
