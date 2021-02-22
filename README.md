@@ -30,7 +30,7 @@ Important to note is that you are not required to use a powerpoint, you can be c
 - :ballot_box_with_check: :black_square_button: `9/3` Elia : Watch topics : `JavaScript Engines` `` ``
 - :ballot_box_with_check: :black_square_button: `10/3` Viktor : Watch topics : `live coding a piano` `` ``
 - :ballot_box_with_check: :black_square_button: `11/3` Nattaya : Watch topics : `soft skills` `` ``
-- :ballot_box_with_check: :black_square_button: `12/3` Alexandra : Watch topics : `mjml` `` ``
+- :ballot_box_with_check: :black_square_button: `12/3` Alexandra : Watch topics : `mjml` `laravel` ``
 - :ballot_box_with_check: :black_square_button: `15/3` Mark : Watch topics : `CSS FLEXBOX` `` ``
 - :ballot_box_with_check: :black_square_button: `16/3` Kai : Watch topics : `Colour & colourblind accessibility` `` ``
 - :ballot_box_with_check: :black_square_button: `17/3` Anton : Watch topics : `OSINT` `` ``
