@@ -28,8 +28,8 @@ Important to note is that you are not required to use a powerpoint, you can be c
 - :ballot_box_with_check: :ballot_box_with_check: `26/2` Michaela : Watch topics : `Fold@home` `` ``
 - :ballot_box_with_check: :ballot_box_with_check: `8/3` Julio : Watch topics : `APIs` `Internet of Things` `` ``
 - :ballot_box_with_check: :ballot_box_with_check: `9/3` Elia : Watch topics : `JavaScript Engines` `Docker` `` ``
-- :ballot_box_with_check: :black_square_button: --> `10/3` Viktor : Watch topics : `live coding a piano` `` ``
-- :ballot_box_with_check: :black_square_button: `11/3` Nattaya : Watch topics : `soft skills` `` ``
+- :ballot_box_with_check: :ballot_box_with_check: `10/3` Viktor : Watch topics : `live coding a piano` `Productivity` `` ``
+- :ballot_box_with_check: :ballot_box_with_check: --> `11/3` Nattaya : Watch topics : `soft skills` `Digital Identity` `` ``
 - :ballot_box_with_check: :black_square_button: `12/3` Alexandra : Watch topics : `mjml` `laravel` ``
 - :ballot_box_with_check: :black_square_button: `15/3` Mark : Watch topics : `CSS FLEXBOX` `MENTAL HEALTH & WORK` `` ``
 - :ballot_box_with_check: :black_square_button: `16/3` Kai : Watch topics : `Colour & colourblind accessibility` `` ``
