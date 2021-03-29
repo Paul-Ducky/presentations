@@ -18,12 +18,12 @@ Important to note is that you are not required to use a powerpoint, you can be c
 
 ### the arrow `-->` means that person is the next one to present! A checked box means you can relax for a short while :D
 
-- :ballot_box_with_check: :ballot_box_with_check: :black_square_button: `24/3` Marte  : Watch topics : `Zsh` `Injury free Februari` `` ``
-- :ballot_box_with_check: :ballot_box_with_check: :black_square_button: `25/3` Laila : Watch topics : `Agile` `Introduction to OOP` `` ``
-- :ballot_box_with_check: :ballot_box_with_check: :black_square_button: `26/3` Oscar : Watch topics : `OBS on steroids! or how can your presentation reach high levels!` `` `` 
-- :ballot_box_with_check: :ballot_box_with_check: :black_square_button: `29/3` Paul : Watch topics : `RegEx` `10 Influential hacks in the past` `` ``
-- :ballot_box_with_check: :ballot_box_with_check: :black_square_button: `30/3` Jens : Watch topics : `Basics of hosting and webservers` `Linux` `` ``
-- :ballot_box_with_check: :ballot_box_with_check: :black_square_button: `31/3` Peter : Watch topics : `Bootstrap` `Becode Kahoot` `` ``
+- :ballot_box_with_check: :ballot_box_with_check: :ballot_box_with_check: `24/3` Marte  : Watch topics : `Zsh` `Injury free Februari` `coding games` `` ``
+- :ballot_box_with_check: :ballot_box_with_check: :ballot_box_with_check: `25/3` Laila : Watch topics : `Agile` `Introduction to OOP` `git stuff` `` ``
+- :ballot_box_with_check: :ballot_box_with_check: :ballot_box_with_check: `26/3` Oscar : Watch topics : `OBS on steroids! or how can your presentation reach high levels!` `Portfolio man` `` ``
+- :ballot_box_with_check: :ballot_box_with_check: :black_square_button: --> `29/3` Paul : Watch topics : `RegEx` `10 Influential hacks in the past` `Code kahoot` `` ``
+- :ballot_box_with_check: :ballot_box_with_check: :black_square_button: `30/3` Jens : Watch topics : `Basics of hosting and webservers` `Linux` `Bash scripting` `` ``
+- :ballot_box_with_check: :ballot_box_with_check: :black_square_button: `31/3` Peter : Watch topics : `Bootstrap` `Becode watch Kahoot` `` ``
 - :ballot_box_with_check: :ballot_box_with_check: :black_square_button: `1/4` Thomas : Watch topics : `Cookies` `Smurfberry counter` `` ``
 - :ballot_box_with_check: :ballot_box_with_check: :black_square_button: `2/4` Michaela : Watch topics : `Folding@home` `visualisation of digital data` `` ``
 - :ballot_box_with_check: :ballot_box_with_check: :black_square_button: `5/4` Julio : Watch topics : `APIs` `Internet of Things` `` ``
@@ -39,5 +39,3 @@ Important to note is that you are not required to use a powerpoint, you can be c
  ---
 ###
 
--- extra watches --
-- :black_square_button: --> `23/3` Kai : Watch topic : ` ` `` ``
