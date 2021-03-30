@@ -33,7 +33,7 @@ Important to note is that you are not required to use a powerpoint, you can be c
 - :ballot_box_with_check: :ballot_box_with_check: :black_square_button: `9/4` Alexandra : Watch topics : `mjml` `laravel` `` ``
 - :ballot_box_with_check: :ballot_box_with_check: :black_square_button: `12/4` Mark : Watch topics : `CSS FLEXBOX` `MENTAL HEALTH & WORK` `Designing the ultimate shopping site` ````
 - :ballot_box_with_check: :ballot_box_with_check: :black_square_button: `13/4` Kai : Watch topics : `Colour & colourblind accessibility` `Heaven's Gate?!` `` ``
-- :ballot_box_with_check: :ballot_box_with_check: :black_square_button: `14/4` Anton : Watch topics : `OSINT` `` ``
+- :ballot_box_with_check: :ballot_box_with_check: :black_square_button: `14/4` Anton : Watch topics : `OSINT` `Find your Computer` `` ``
 - :ballot_box_with_check: :ballot_box_with_check: :black_square_button: `15/4` Jenifer : Watch topics : `Intro to DS & Algorithms` `` ``
 - :ballot_box_with_check: :ballot_box_with_check: :black_square_button: `16/4` Serkan : Watch topics : `Flutter/dart` `node/express/embedded JS` `` ``
  ---
