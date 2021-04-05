@@ -25,8 +25,8 @@ Important to note is that you are not required to use a powerpoint, you can be c
 - :ballot_box_with_check: :ballot_box_with_check: :ballot_box_with_check: `30/3` Jens : Watch topics : `Basics of hosting and webservers` `Linux` `Bash scripting` `` `` ``
 - :ballot_box_with_check: :ballot_box_with_check: :ballot_box_with_check: `31/3` Peter : Watch topics : `Bootstrap` `Becode watch Kahoot` `.NET Framework` `` `` ``
 - :ballot_box_with_check: :ballot_box_with_check: :ballot_box_with_check: `1/4` Thomas : Watch topics : `Cookies` `Smurfberry counter` `Piracy` `` `` ``
-- :ballot_box_with_check: :ballot_box_with_check: :black_square_button: --> `2/4` Michaela : Watch topics : `Folding@home` `visualisation of digital data` `Google Extenstions` `` `` ``
-- :ballot_box_with_check: :ballot_box_with_check: :black_square_button: `6/4` Julio : Watch topics : `APIs` `Internet of Things` `` `` ``
+- :ballot_box_with_check: :ballot_box_with_check: :black_square_button: `2/4` Michaela : Watch topics : `Folding@home` `visualisation of digital data` `Google Extenstions` `` `` ``
+- :ballot_box_with_check: :ballot_box_with_check: :black_square_button: --> `6/4` Julio : Watch topics : `APIs` `Internet of Things` `NoSQL` `` `` `` 
 - :ballot_box_with_check: :ballot_box_with_check: :black_square_button: `7/4` Elia : Watch topics : `JavaScript Engines` `Docker` `` `` ``
 - :ballot_box_with_check: :ballot_box_with_check: :black_square_button: `8/4` Viktor : Watch topics : `live coding a piano` `Productivity` `` `` ``
 - :ballot_box_with_check: :ballot_box_with_check: :black_square_button: `9/4` Nattaya : Watch topics : `soft skills` `Digital Identity` `` `` ``
