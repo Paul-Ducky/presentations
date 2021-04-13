@@ -25,13 +25,13 @@ Important to note is that you are not required to use a powerpoint, you can be c
 - :ballot_box_with_check: :ballot_box_with_check: :ballot_box_with_check: `26/4` Jens : Watch topics : `Basics of hosting and webservers` `Linux` `Bash scripting` `` `` ``
 - :ballot_box_with_check: :ballot_box_with_check: :ballot_box_with_check: `27/4` Peter : Watch topics : `Bootstrap` `Becode watch Kahoot` `.NET Framework` `` `` ``
 - :ballot_box_with_check: :ballot_box_with_check: :ballot_box_with_check: `28/4` Thomas : Watch topics : `Cookies` `Smurfberry counter` `Piracy` `` `` ``
-- :ballot_box_with_check: :ballot_box_with_check: :black_square_button: `29/4` Michaela : Watch topics : `Folding@home` `visualisation of digital data` `Google Extenstions` `` `` ``
-- :ballot_box_with_check: :ballot_box_with_check: :black_square_button: `30/4` Julio : Watch topics : `APIs` `Internet of Things` `NoSQL` `` `` 
-- :ballot_box_with_check: :ballot_box_with_check: :black_square_button: `7/4` Elia : Watch topics : `JavaScript Engines` `Docker` `Music in programming?` `` ``
-- :ballot_box_with_check: :ballot_box_with_check: :black_square_button: `8/4` Viktor : Watch topics : `live coding a piano` `Productivity` `Hacking` `` ``
-- :ballot_box_with_check: :ballot_box_with_check: :black_square_button: `9/4` Nattaya : Watch topics : `soft skills` `Digital Identity` `SSR` `` ``
-- :ballot_box_with_check: :ballot_box_with_check: :black_square_button: `12/4` Alexandra : Watch topics : `mjml` `laravel` `Angular` `` ``
-- :ballot_box_with_check: :ballot_box_with_check: :black_square_button: `13/4` Mark : Watch topics : `CSS FLEXBOX` `MENTAL HEALTH & WORK` `Designing the ultimate shopping site` `` ``
+- :ballot_box_with_check: :ballot_box_with_check: :ballot_box_with_check: `29/4` Michaela : Watch topics : `Folding@home` `visualisation of digital data` `Google Extenstions` `` `` ``
+- :ballot_box_with_check: :ballot_box_with_check: :ballot_box_with_check: `30/4` Julio : Watch topics : `APIs` `Internet of Things` `NoSQL` `` `` 
+- :ballot_box_with_check: :ballot_box_with_check: :ballot_box_with_check: `7/4` Elia : Watch topics : `JavaScript Engines` `Docker` `Music in programming?` `` ``
+- :ballot_box_with_check: :ballot_box_with_check: :ballot_box_with_check: `8/4` Viktor : Watch topics : `live coding a piano` `Productivity` `Hacking` `` ``
+- :ballot_box_with_check: :ballot_box_with_check: ☑️ `9/4` Nattaya : Watch topics : `soft skills` `Digital Identity` `SSR` `` ``
+- :ballot_box_with_check: :ballot_box_with_check: ☑️ `12/4` Alexandra : Watch topics : `mjml` `laravel` `Angular` `` ``
+- :ballot_box_with_check: :ballot_box_with_check: ☑️ `13/4` Mark : Watch topics : `CSS FLEXBOX` `MENTAL HEALTH & WORK` `Designing the ultimate shopping site` `` ``
 - :ballot_box_with_check: :ballot_box_with_check: :black_square_button: --> `14/4` Kai : Watch topics : `Colour & colourblind accessibility` `Heaven's Gate?!` `some random topic?` ``
 - :ballot_box_with_check: :ballot_box_with_check: :black_square_button: `15/4` Anton : Watch topics : `OSINT` `Find your Computer` `` ``
 - :ballot_box_with_check: :ballot_box_with_check: :black_square_button: `16/4` Jenifer : Watch topics : `Intro to DS & Algorithms` `` ``
