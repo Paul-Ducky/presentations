@@ -29,9 +29,9 @@ Important to note is that you are not required to use a powerpoint, you can be c
 - :ballot_box_with_check: :ballot_box_with_check: :ballot_box_with_check: `30/4` Julio : Watch topics : `APIs` `Internet of Things` `NoSQL` `` `` 
 - :ballot_box_with_check: :ballot_box_with_check: :ballot_box_with_check: `7/4` Elia : Watch topics : `JavaScript Engines` `Docker` `Music in programming?` `` ``
 - :ballot_box_with_check: :ballot_box_with_check: :ballot_box_with_check: `8/4` Viktor : Watch topics : `live coding a piano` `Productivity` `Hacking` `` ``
-- :ballot_box_with_check: :ballot_box_with_check: ☑️ `9/4` Nattaya : Watch topics : `soft skills` `Digital Identity` `SSR` `` ``
-- :ballot_box_with_check: :ballot_box_with_check: ☑️ `12/4` Alexandra : Watch topics : `mjml` `laravel` `Angular` `` ``
-- :ballot_box_with_check: :ballot_box_with_check: ☑️ `13/4` Mark : Watch topics : `CSS FLEXBOX` `MENTAL HEALTH & WORK` `Designing the ultimate shopping site` `` ``
+- :ballot_box_with_check: :ballot_box_with_check: :ballot_box_with_check: `9/4` Nattaya : Watch topics : `soft skills` `Digital Identity` `SSR` `` ``
+- :ballot_box_with_check: :ballot_box_with_check: :ballot_box_with_check: `12/4` Alexandra : Watch topics : `mjml` `laravel` `Angular` `` ``
+- :ballot_box_with_check: :ballot_box_with_check: :ballot_box_with_check: `13/4` Mark : Watch topics : `CSS FLEXBOX` `MENTAL HEALTH & WORK` `Designing the ultimate shopping site` `` ``
 - :ballot_box_with_check: :ballot_box_with_check: :black_square_button: --> `14/4` Kai : Watch topics : `Colour & colourblind accessibility` `Heaven's Gate?!` `some random topic?` ``
 - :ballot_box_with_check: :ballot_box_with_check: :black_square_button: `15/4` Anton : Watch topics : `OSINT` `Find your Computer` `` ``
 - :ballot_box_with_check: :ballot_box_with_check: :black_square_button: `16/4` Jenifer : Watch topics : `Intro to DS & Algorithms` `` ``
