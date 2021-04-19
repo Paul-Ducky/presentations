@@ -32,9 +32,9 @@ Important to note is that you are not required to use a powerpoint, you can be c
 - :ballot_box_with_check: :ballot_box_with_check: :ballot_box_with_check: `6/5` Nattaya : Watch topics : `soft skills` `Digital Identity` `SSR` `` ``
 - :ballot_box_with_check: :ballot_box_with_check: :ballot_box_with_check: `7/5` Alexandra : Watch topics : `mjml` `laravel` `Angular` `` ``
 - :ballot_box_with_check: :ballot_box_with_check: :ballot_box_with_check: `10/5` Mark : Watch topics : `CSS FLEXBOX` `MENTAL HEALTH & WORK` `Designing the ultimate shopping site` `` ``
-- :ballot_box_with_check: :ballot_box_with_check: :black_square_button: `11/5` Kai : Watch topics : `Colour & colourblind accessibility` `Heaven's Gate?!` `Unity` `` ``
-- :ballot_box_with_check: :ballot_box_with_check: :black_square_button: `12/5` Anton : Watch topics : `OSINT` `Find your Computer` `Meditation` `` ``
-- :ballot_box_with_check: :ballot_box_with_check: :black_square_button: `19/4` Jenifer : Watch topics : `Intro to DS & Algorithms` `open source` `` ``
+- :ballot_box_with_check: :ballot_box_with_check: :ballot_box_with_check: `11/5` Kai : Watch topics : `Colour & colourblind accessibility` `Heaven's Gate?!` `Unity` `` ``
+- :ballot_box_with_check: :ballot_box_with_check: :ballot_box_with_check: `12/5` Anton : Watch topics : `OSINT` `Find your Computer` `Meditation` `` ``
+- :ballot_box_with_check: :ballot_box_with_check: :ballot_box_with_check: `19/4` Jenifer : Watch topics : `Intro to DS & Algorithms` `open source` `` ``
 - :ballot_box_with_check: :ballot_box_with_check: :black_square_button: --> `20/4` Serkan : Watch topics : `Flutter/dart` `node/express/embedded JS` `` ``
  ---
 ###
